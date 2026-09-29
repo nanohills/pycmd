@@ -1,4 +1,5 @@
 import pytest
+import sys
 
 from pycmd.projects import parse_target
 from pycmd.ui import PycmdError

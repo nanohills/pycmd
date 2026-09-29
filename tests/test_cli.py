@@ -1,4 +1,5 @@
 import pytest
+import sys
 from typer.testing import CliRunner
 
 from pycmd.cli import app
